@@ -1,19 +1,5 @@
-# maps-app
+# Vue App de Mapas
 
-## Project setup
-```
-yarn install
-```
+Aplicación de mapas hecha con vue usando la API de mapbox
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Demo: [Aplicación Mapa](https://gk-vue-maps-app.netlify.app).
